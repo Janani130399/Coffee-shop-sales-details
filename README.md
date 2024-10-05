@@ -15,3 +15,5 @@ Dynamic Filtering: Enables filtering of data by time range or specific products 
 
 Purpose:
 The goal of this dashboard is to provide coffee shop owners and managers with a clear understanding of their sales performance and help identify areas for growth or improvement.
+
+
